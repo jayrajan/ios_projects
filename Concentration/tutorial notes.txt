@@ -1,0 +1,22 @@
+
+class car{
+
+var vin: string
+var make: string
+var model: string
+var fueltype: string
+var doors: int
+var
+
+
+}
+
+let car1 = car()
+car1.vin = “WDSGSHS102922”
+car1.make = “mercedes”
+car1.model = “benz”
+car1.fueltype = “diesel”
+car1.doors = 5
+
+let car2 = car()
+ 
